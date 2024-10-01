@@ -1,0 +1,55 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "footer-2": {
+          "type": "text",
+          "settings": {
+            "heading": "Our mission",
+            "subtext": "<p>Japan Direct was founded by Zach in Japan. He scrambles all across Japan and other parts of the world to find the best anime and Japan merchandise. The goal is to sell Pokemon stuff (or any anime) to every country in the world. <\/p><p><a href=\"https:\/\/japandirect.org\/pages\/contact\" target=\"_blank\" title=\"Contact\">Contact us<\/a> for special orders and requests.<\/p>"
+          }
+        },
+        "image_yRJDPc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Direct.jpg",
+            "image_width": 235,
+            "alignment": "right"
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-2",
+        "image_yRJDPc"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 48,
+        "padding_top": 12,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_50436353.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "We specialize in vintage and Japan-only Pokemon cards",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We also have limited edition and rare items from other anime, fan-made items, retro video games and more!<br\/><br\/><a href=\"https:\/\/japandirect.org\/pages\/contact\" target=\"_blank\" title=\"Contact\">Contact us<\/a> for special orders and requests.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Gold Star and Shining Pokemon",
+        "heading_size": "h1",
+        "description": "<p>From Zach's personal collection<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "singles",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 96
+      }
+    },
+    "collection_list_TqpwE4": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_r8gCwB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-video-games"
+          }
+        },
+        "featured_collection_Cma9Vk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hello-kitty"
+          }
+        },
+        "featured_collection_8P7Va9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pokemon-tcg"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_r8gCwB",
+        "featured_collection_Cma9Vk",
+        "featured_collection_8P7Va9"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_FgG9pR": {
+      "type": "featured-product",
+      "blocks": {
+        "text_B8PhUf": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title_tbVFt3": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_cA9qC4": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_KJCewf": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_HAp33H": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_pYFic3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_eWwDip": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_B8PhUf",
+        "title_tbVFt3",
+        "price_cA9qC4",
+        "variant_picker_KJCewf",
+        "quantity_selector_HAp33H",
+        "buy_buttons_pYFic3",
+        "share_eWwDip"
+      ],
+      "settings": {
+        "product": "vintage-japanese-pokemon-booster-packs",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "Check out the YouTube Channel",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/youtu.be\/e9AfzaCHGBM?si=zC62XjVu2iC-5ETn",
+        "cover_image": "shopify:\/\/shop_images\/image_50436353.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 84,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text",
+    "featured_collection",
+    "collection_list_TqpwE4",
+    "featured_product_FgG9pR",
+    "video"
+  ]
+}
